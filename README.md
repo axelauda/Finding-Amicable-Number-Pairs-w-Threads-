@@ -1,7 +1,5 @@
 # Finding-Amicable-Number-Pairs-w-Threads-
 
-<h1>JWipe - Disk Sanitization</h1>
-
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
