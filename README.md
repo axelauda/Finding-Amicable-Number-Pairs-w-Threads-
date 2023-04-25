@@ -1,10 +1,10 @@
 # Finding-Amicable-Number-Pairs-w-Threads-
 
 <h2>Description</h2>
-<b>
+<p>
   In this C project, I developed a program using multi-threading that would go through a range of numbers and find an amicable pair within that range. Amciable numbers are a pair of numbers where the sum of the proper divisors of each is equal to the other number. For example, the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110 which sum to 284. The proper divisors of 284 are 1, 2, 4, 71, 142 which sum to 220. Thus, 220 and 284 are said to be
 “amicable”.
-</b>
+</p>
 <b>
   In the program, I would get user input, where an upper limit was chosen to decide the range in which the program checks numbers for amicability. A thread count was also chosen to show the time difference for if one thread, two threads, and more would decrease the time of the program. These inputs were error checked so the limits and thread counts would be reasonable.
 </b>
